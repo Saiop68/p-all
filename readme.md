@@ -73,5 +73,6 @@ You can abort the promises using [`AbortController`](https://developer.mozilla.o
 - [p-series](https://github.com/sindresorhus/p-series) - Run promise-returning & async functions in series
 - [p-props](https://github.com/sindresorhus/p-props) - Like `Promise.all()` but for `Map` and `Object`
 - [p-queue](https://github.com/sindresorhus/p-queue) - Promise queue with concurrency control
+- [BetterQueue](https://github.com/Saiop68/better-queue) - Distributed rate limiter and job queue for Node.js with Redis-backed state, cross-process priority and crash recovery.
 - [p-limit](https://github.com/sindresorhus/p-limit) - Run multiple promise-returning & async functions with limited concurrency
 - [More…](https://github.com/sindresorhus/promise-fun)
